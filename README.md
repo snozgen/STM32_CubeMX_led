@@ -7,7 +7,7 @@ Her butona basıldığında **bir sonraki LED yanar** ve diğerleri söner.
 - **STM32 Nucleo-F103RB**
 - **4 Adet LED**
 - **1 Adet Buton**
-- **220Ω Dirençler**
+- **330Ω x 4 ve 10KΩ x 1 (pull up pull down için) Dirençler**
 
 ## 📜 Kod Açıklaması
 - `main.c` içinde **buton basıldığında LED sıralı olarak değişir**.
